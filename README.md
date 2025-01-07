@@ -1,5 +1,5 @@
-# html-css-portfolio
+# (OUTDATED) html-css-portfolio
 
-I made this portfolio based on my resume sometime in summer 2022, but the virtual machine where it was stored was corrupted after performing an OS reinstallation. I finally got around to rescuing some files stored there, and decided to save them here.
+I made this portfolio based on my resume sometime in summer 2022. It is now quite outdated, but I am leaving it here for reference.
 
-As you can see, this is a very barebones skeleton of what I intended to make; a lot of progress was lost. I will get around to improving it alongside my study of CSS and Javascript.
+UPDATE Jan 2025: I am aware that the Github Pages deployment for this is out of order. I am now working on remaking and updating the site instead of repairing the outdated one.
